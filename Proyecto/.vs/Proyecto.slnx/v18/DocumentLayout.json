@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4AB3EA5-24D9-46B0-B3B4-86B3CAB8B7F5}|Proyecto\\Proyecto.csproj|c:\\users\\chris\\onedrive\\escritorio\\entornos\\practica\\proyecto\\proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B4AB3EA5-24D9-46B0-B3B4-86B3CAB8B7F5}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AB3EA5-24D9-46B0-B3B4-86B3CAB8B7F5}|Proyecto\\Proyecto.csproj|c:\\users\\chris\\onedrive\\escritorio\\entornos\\practica\\proyecto\\proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AB3EA5-24D9-46B0-B3B4-86B3CAB8B7F5}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Escritorio\\Entornos\\Practica\\Proyecto\\Proyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Escritorio\\Entornos\\Practica\\Proyecto\\Proyecto\\Form1.cs",
+              "RelativeToolTip": "Proyecto\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:15:16.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
